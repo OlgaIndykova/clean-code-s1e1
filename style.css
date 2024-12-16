@@ -92,9 +92,9 @@
   color: #333;
 }
 /* New Task */
-#add-task-to-list .section-title {
+#add-task-to-list {
   display: block;
-  margin: 0 0 20px;
+  margin: 20px 0 0 0;
 }
 #new-task {
   width: 318px;
